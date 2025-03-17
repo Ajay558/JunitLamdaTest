@@ -1,0 +1,2 @@
+# JunitLamdaTest
+JunitLamdaTest code
